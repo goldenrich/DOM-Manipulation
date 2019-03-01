@@ -11,7 +11,7 @@ GAME RULES:
 
 var globalScores, currentScores, activePlayer, dice, totalDice, gamePlaying;
 globalScores = [0, 0];
-currentScores = 01;
+currentScores = 0;
 activePlayer = 0;
 totalDice = 0;
 gamePlaying = true;
